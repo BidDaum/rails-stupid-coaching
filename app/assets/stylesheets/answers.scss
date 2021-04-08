@@ -1,0 +1,26 @@
+// Place all the styles related to the answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container {
+background-color: rgb(238, 230, 230);
+}
+
+.container p {
+    background-color: rgb(247, 247, 108);
+    text-align: center;
+}
+.link {
+    background-color: #4c5bafe3; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    border-radius: 4%;
+}
+.link :hover{
+    background-color: blue;
+}
